@@ -1,0 +1,2 @@
+norm two:     28602.835004
+elapsed time: 10.000000 ms
