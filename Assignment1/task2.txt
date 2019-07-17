@@ -1,0 +1,8 @@
+Task 2. 
+
+a. /srv/home/cmiao 
+b. 21885 pts/42   00:00:00 bash (This response shows that the shell you are using is of type 'bash'.)
+c. ls -S sort by file size
+   ls -a list all files including hidden file starting with ‘.’
+d. 1040 lines
+e. gcc/8.2.0

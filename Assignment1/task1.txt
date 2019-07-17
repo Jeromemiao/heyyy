@@ -1,0 +1,14 @@
+Task 1. 
+To install Chocolatey: 
+1.	In windows search box search "Command Prompt”. 
+2.	Right click of "Command Prompt”, choose “Run as administrator”. 
+3.	Paste the following into the shell and press Enter.
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+4.	Waiting till it finished. That’s all.  
+
+To use Chocolatey to install a program (Notepad++): 
+1.	Open a command line. 
+2.	Type choco install notepadplusplus and press Enter. 
+1.	Enter A for “Do you want to run the script? ([Y]es/[A]ll - yes to all/[N]o/[P]rint):”
+3.	That’s all. 
+

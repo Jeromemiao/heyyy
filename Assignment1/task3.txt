@@ -1,0 +1,8 @@
+Task 3. 
+a. nano
+b. save: ^O
+   exit: ^X
+c. (i). paste: ^U
+   (ii). cut: ^K
+         Copy: ALT+6 (not working for mac terminal) 
+   (iii). search: ^W
